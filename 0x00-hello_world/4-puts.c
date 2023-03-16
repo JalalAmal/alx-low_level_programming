@@ -1,12 +1,11 @@
 #include <stdio.h>
-
-/*
- * main - and program including puts function that prints Programming is like building a multilingual puzzle
- * return: 0 - the program runs without any errors
+/**
+ * main - a function that prints a given input within puts
+ * Return: 0 - (Success)
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
 
